@@ -1,0 +1,558 @@
+fileFormatVersion: 2
+guid: 2b238f6b6aaf8be4893b4ac205dd8ec0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2469765198758809641
+    second: personaje principal 2.0-caminando_0
+  - first:
+      213: -56889412189877947
+    second: personaje principal 2.0-caminando_1
+  - first:
+      213: -7650770865553365544
+    second: personaje principal 2.0-caminando_2
+  - first:
+      213: 8436845943765094652
+    second: personaje principal 2.0-caminando_3
+  - first:
+      213: 7160215477659721607
+    second: personaje principal 2.0-caminando_4
+  - first:
+      213: 5373561359775389267
+    second: personaje principal 2.0-caminando_5
+  - first:
+      213: 5097817031849279486
+    second: personaje principal 2.0-caminando_6
+  - first:
+      213: 7519203339155015054
+    second: personaje principal 2.0-caminando_7
+  - first:
+      213: -5773398572393979134
+    second: personaje principal 2.0-caminando_8
+  - first:
+      213: -2051355727246954760
+    second: personaje principal 2.0-caminando_9
+  - first:
+      213: -2244558476552133094
+    second: personaje principal 2.0-caminando_10
+  - first:
+      213: -5464744267692891775
+    second: personaje principal 2.0-caminando_11
+  - first:
+      213: 8902465914375853546
+    second: personaje principal 2.0-caminando_12
+  - first:
+      213: 5995985293985167168
+    second: personaje principal 2.0-caminando_13
+  - first:
+      213: 5937146597718480946
+    second: personaje principal 2.0-caminando_14
+  - first:
+      213: -4644999705973297723
+    second: personaje principal 2.0-caminando_15
+  - first:
+      213: 6998255745290444947
+    second: personaje principal 2.0-caminando_16
+  - first:
+      213: -8205712304044026104
+    second: personaje principal 2.0-caminando_17
+  - first:
+      213: -669500266201323997
+    second: personaje principal 2.0-caminando_18
+  - first:
+      213: -6466433455293885473
+    second: personaje principal 2.0-caminando_19
+  - first:
+      213: -9597708290484712
+    second: personaje principal 2.0-caminando_20
+  - first:
+      213: 8616398191285435913
+    second: personaje principal 2.0-caminando_21
+  - first:
+      213: -4501610969296660758
+    second: personaje principal 2.0-caminando_22
+  - first:
+      213: 1419497163966954151
+    second: personaje principal 2.0-caminando_23
+  - first:
+      213: -1032191974809692658
+    second: personaje principal 2.0-caminando_24
+  - first:
+      213: -2756523263840761707
+    second: personaje principal 2.0-caminando_25
+  - first:
+      213: 2171535571314136604
+    second: personaje principal 2.0-caminando_26
+  - first:
+      213: -4094849476890103522
+    second: personaje principal 2.0-caminando_27
+  - first:
+      213: -6058523485069645790
+    second: personaje principal 2.0-caminando_28
+  - first:
+      213: -5913651335813698292
+    second: personaje principal 2.0-caminando_29
+  - first:
+      213: 6265451025706138829
+    second: personaje principal 2.0-caminando_30
+  - first:
+      213: 1859794784820444404
+    second: personaje principal 2.0-caminando_31
+  - first:
+      213: -5364439993755885020
+    second: personaje principal 2.0-caminando_32
+  - first:
+      213: -7812300477442824216
+    second: personaje principal 2.0-caminando_33
+  - first:
+      213: 4880760769284332989
+    second: personaje principal 2.0-caminando_34
+  - first:
+      213: 477770791043679888
+    second: personaje principal 2.0-caminando_35
+  - first:
+      213: 5824165767036316770
+    second: personaje principal 2.0-caminando_36
+  - first:
+      213: -3328605110950918676
+    second: personaje principal 2.0-caminando_37
+  - first:
+      213: 5392793276041774486
+    second: personaje principal 2.0-caminando_38
+  - first:
+      213: 8038361711575571557
+    second: personaje principal 2.0-caminando_39
+  - first:
+      213: 1291291840705012738
+    second: personaje principal 2.0-caminando_40
+  - first:
+      213: -6031476032533275462
+    second: personaje principal 2.0-caminando_41
+  - first:
+      213: 8133534805156142923
+    second: personaje principal 2.0-caminando_42
+  - first:
+      213: -660325078849534226
+    second: personaje principal 2.0-caminando_43
+  - first:
+      213: -3919820145056597892
+    second: personaje principal 2.0-caminando_44
+  - first:
+      213: -608344592577241900
+    second: personaje principal 2.0-caminando_45
+  - first:
+      213: 5592829723453010563
+    second: personaje principal 2.0-caminando_46
+  - first:
+      213: 6132633028439710022
+    second: personaje principal 2.0-caminando_47
+  - first:
+      213: -7888935447240269547
+    second: personaje principal 2.0-caminando_48
+  - first:
+      213: -7346044080852725629
+    second: personaje principal 2.0-caminando_49
+  - first:
+      213: 8006802301222373244
+    second: personaje principal 2.0-caminando_50
+  - first:
+      213: -1031726589411160310
+    second: personaje principal 2.0-caminando_51
+  - first:
+      213: 8033418955576134202
+    second: personaje principal 2.0-caminando_52
+  - first:
+      213: 5349711071166146458
+    second: personaje principal 2.0-caminando_53
+  - first:
+      213: 4274304968547050565
+    second: personaje principal 2.0-caminando_54
+  - first:
+      213: 6914367410404434500
+    second: personaje principal 2.0-caminando_55
+  - first:
+      213: 8282151888803091457
+    second: personaje principal 2.0-caminando_56
+  - first:
+      213: -5755574909312688583
+    second: personaje principal 2.0-caminando_57
+  - first:
+      213: 4201811828253923912
+    second: personaje principal 2.0-caminando_58
+  - first:
+      213: -3917096700880426327
+    second: personaje principal 2.0-caminando_59
+  - first:
+      213: 2570197814339769653
+    second: personaje principal 2.0-caminando_60
+  - first:
+      213: -2292577340147508705
+    second: personaje principal 2.0-caminando_61
+  - first:
+      213: -8243705456803895908
+    second: personaje principal 2.0-caminando_62
+  - first:
+      213: -8390642114666272162
+    second: personaje principal 2.0-caminando_63
+  - first:
+      213: 1260940850696382540
+    second: personaje principal 2.0-caminando_64
+  - first:
+      213: -6494114176205152294
+    second: personaje principal 2.0-caminando_65
+  - first:
+      213: 5845113715741018133
+    second: personaje principal 2.0-caminando_66
+  - first:
+      213: -6307822980586686571
+    second: personaje principal 2.0-caminando_67
+  - first:
+      213: -4168689196542712464
+    second: personaje principal 2.0-caminando_68
+  - first:
+      213: 2003878642041838633
+    second: personaje principal 2.0-caminando_69
+  - first:
+      213: -300922332280339028
+    second: personaje principal 2.0-caminando_70
+  - first:
+      213: 5524229147692106902
+    second: personaje principal 2.0-caminando_71
+  - first:
+      213: -1327224727988857639
+    second: personaje principal 2.0-caminando_72
+  - first:
+      213: 554817022215577744
+    second: personaje principal 2.0-caminando_73
+  - first:
+      213: -960542403458665645
+    second: personaje principal 2.0-caminando_74
+  - first:
+      213: 7893678509443745752
+    second: personaje principal 2.0-caminando_75
+  - first:
+      213: -281200515487639332
+    second: personaje principal 2.0-caminando_76
+  - first:
+      213: -1781046785616058482
+    second: personaje principal 2.0-caminando_77
+  - first:
+      213: -5660239233743100473
+    second: personaje principal 2.0-caminando_78
+  - first:
+      213: -2542349473645084566
+    second: personaje principal 2.0-caminando_79
+  - first:
+      213: -5669833415010984844
+    second: personaje principal 2.0-caminando_80
+  - first:
+      213: -6605560905308910967
+    second: personaje principal 2.0-caminando_81
+  - first:
+      213: 8275118777466946330
+    second: personaje principal 2.0-caminando_82
+  - first:
+      213: -2983262155084378773
+    second: personaje principal 2.0-caminando_83
+  - first:
+      213: 4456936616950624136
+    second: personaje principal 2.0-caminando_84
+  - first:
+      213: 8133677144424348652
+    second: personaje principal 2.0-caminando_85
+  - first:
+      213: 1304186716616079539
+    second: personaje principal 2.0-caminando_86
+  - first:
+      213: -944806682023272850
+    second: personaje principal 2.0-caminando_87
+  - first:
+      213: 8441656276315731661
+    second: personaje principal 2.0-caminando_88
+  - first:
+      213: 6803446796260607022
+    second: personaje principal 2.0-caminando_89
+  - first:
+      213: -8907782451482217726
+    second: personaje principal 2.0-caminando_90
+  - first:
+      213: -3039174910266441672
+    second: personaje principal 2.0-caminando_91
+  - first:
+      213: 5585729372190696736
+    second: personaje principal 2.0-caminando_92
+  - first:
+      213: 3975976258182115338
+    second: personaje principal 2.0-caminando_93
+  - first:
+      213: 5132471251803048186
+    second: personaje principal 2.0-caminando_94
+  - first:
+      213: -7861032183313770439
+    second: personaje principal 2.0-caminando_95
+  - first:
+      213: 8147890553909056018
+    second: personaje principal 2.0-caminando_96
+  - first:
+      213: 9036085929189010099
+    second: personaje principal 2.0-caminando_97
+  - first:
+      213: 8276434957477888875
+    second: personaje principal 2.0-caminando_98
+  - first:
+      213: 7067460461031564029
+    second: personaje principal 2.0-caminando_99
+  - first:
+      213: -5409184064647345809
+    second: personaje principal 2.0-caminando_100
+  - first:
+      213: 5201533274545563927
+    second: personaje principal 2.0-caminando_101
+  - first:
+      213: 8008388711195248900
+    second: personaje principal 2.0-caminando_102
+  - first:
+      213: -5115344165627849683
+    second: personaje principal 2.0-caminando_103
+  - first:
+      213: 7135173150015244092
+    second: personaje principal 2.0-caminando_104
+  - first:
+      213: 5521682186421110183
+    second: personaje principal 2.0-caminando_105
+  - first:
+      213: 8459381832931569986
+    second: personaje principal 2.0-caminando_106
+  - first:
+      213: 8648718834223007750
+    second: personaje principal 2.0-caminando_107
+  - first:
+      213: -7374041274896185214
+    second: personaje principal 2.0-caminando_108
+  - first:
+      213: 2956528682965343910
+    second: personaje principal 2.0-caminando_109
+  - first:
+      213: 5262780358688695811
+    second: personaje principal 2.0-caminando_110
+  - first:
+      213: -1116954657651955734
+    second: personaje principal 2.0-caminando_111
+  - first:
+      213: 7317178459130275995
+    second: personaje principal 2.0-caminando_112
+  - first:
+      213: -4732681258588646690
+    second: personaje principal 2.0-caminando_113
+  - first:
+      213: -8493083200481953489
+    second: personaje principal 2.0-caminando_114
+  - first:
+      213: 4016301133919279809
+    second: personaje principal 2.0-caminando_115
+  - first:
+      213: 5375083680573870506
+    second: personaje principal 2.0-caminando_116
+  - first:
+      213: -4746781505356716689
+    second: personaje principal 2.0-caminando_117
+  - first:
+      213: -4962716295653580952
+    second: personaje principal 2.0-caminando_118
+  - first:
+      213: -9055428723315722594
+    second: personaje principal 2.0-caminando_119
+  - first:
+      213: -164993039817285063
+    second: personaje principal 2.0-caminando_120
+  - first:
+      213: 8701079349682447705
+    second: personaje principal 2.0-caminando_121
+  - first:
+      213: 6103298335668382943
+    second: personaje principal 2.0-caminando_122
+  - first:
+      213: 3719256137317057053
+    second: personaje principal 2.0-caminando_123
+  - first:
+      213: 8116650771350518607
+    second: personaje principal 2.0-caminando_124
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: personaje principal 2.0-caminando_0
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 462
+        width: 61
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92014a6ec5e564220800000000000000
+      internalID: 2469765198758809641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personaje principal 2.0-caminando_1
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 242
+        width: 61
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54901fa8163e53ff0800000000000000
+      internalID: -56889412189877947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personaje principal 2.0-caminando_2
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 22
+        width: 61
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5a8ccee6003d590800000000000000
+      internalID: -7650770865553365544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
