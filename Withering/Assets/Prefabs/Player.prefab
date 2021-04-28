@@ -13,9 +13,10 @@ GameObject:
   - component: {fileID: 4011837738194863382}
   - component: {fileID: 4011837738194863381}
   - component: {fileID: 4011837738194863378}
+  - component: {fileID: 1636707165}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -142,4 +143,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c4571e68569a5ae488fd68954954ae88, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 3
+  dashRange: 1
+  speed: 5
+--- !u!114 &1636707165
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4011837738194863385}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04879ce8c8f31e94aaea9d1ddb34c0a3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  projectile: {fileID: 1684851900054155888, guid: fe2641991b9f43e43af6c77bb182edf1, type: 3}
+  minDamage: 20
+  maxDamage: 30
+  projectileForce: 10

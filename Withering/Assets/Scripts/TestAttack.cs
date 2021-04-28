@@ -16,6 +16,7 @@ public class TestAttack : MonoBehaviour
             Vector2 myPos = transform.position;
             Vector2 direction = (mousePos - myPos).normalized;
             spell.GetComponent<Rigidbody2D>().velocity = direction * projectileForce;
+            spell.GetComponent<TestProjectile>().damage = Random.Range(minDamage, maxDamage);
         }
     }
 }
