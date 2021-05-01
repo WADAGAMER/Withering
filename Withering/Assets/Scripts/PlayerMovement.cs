@@ -7,7 +7,7 @@ public class PlayerMovement : MonoBehaviour
     private Vector2 targetPos;
     public float dashRange;
     public float speed;
-    private Vector2 direction;
+    private Vector3 direction;
     private Animator animator;
     private enum Facing { UP, DOWN, LEFT, RIGHT};
     private Facing FacingDir = Facing.DOWN;
@@ -25,6 +25,7 @@ public class PlayerMovement : MonoBehaviour
     private void Move()
     {
         transform.Translate(direction * speed * Time.deltaTime);
+        
 
         if(direction.x != 0 || direction.y != 0) {
             SetAnimatorMovement(direction);
@@ -36,26 +37,27 @@ public class PlayerMovement : MonoBehaviour
 
     private void TakeInput() 
     {
-        direction = Vector2.zero;
+        direction = Vector3.zero;
 
         if (Input.GetKey(KeyCode.W))
         {
-            direction += Vector2.up;
+            direction += Vector3.up;
+           
             FacingDir = Facing.UP;
         }
         if (Input.GetKey(KeyCode.A))
         {
-            direction += Vector2.left;
+            direction += Vector3.left;
             FacingDir = Facing.LEFT;
         }
         if (Input.GetKey(KeyCode.S))
         {
-            direction += Vector2.down;
+            direction += Vector3.down;
             FacingDir = Facing.DOWN;
         }
         if (Input.GetKey(KeyCode.D))
         {
-            direction += Vector2.right;
+            direction += Vector3.right;
             FacingDir = Facing.RIGHT;
         }
 
@@ -84,7 +86,7 @@ public class PlayerMovement : MonoBehaviour
         
     }
 
-    private void SetAnimatorMovement(Vector2 direction) {
+    private void SetAnimatorMovement(Vector3 direction) {
         animator.SetLayerWeight(1,1);
         animator.SetFloat("xDir", direction.x);
         animator.SetFloat("yDir", direction.y);
