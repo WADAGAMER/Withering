@@ -81,7 +81,8 @@ public class PlayerMovement : MonoBehaviour
             {
                 targetPos.x = 1;
             }
-            transform.Translate(targetPos * dashRange);
+            //transform.Translate(targetPos * dashRange);
+            GetComponent<Rigidbody>().velocity = targetPos;
         }
         
     }
